@@ -1,0 +1,9 @@
+{
+  "token": "LumaChain",
+  "symbol": "LUMA",
+  "network": "Polygon PoS",
+  "contract": "0x453453096e669a8a48772287210098faa55bd64b",
+  "total_supply": 300000000,
+  "circulating_supply": 25992961.20,
+  "last_updated": "2025-10-25T05:55:39Z"
+}
