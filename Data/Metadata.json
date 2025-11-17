@@ -1,0 +1,13 @@
+{
+  "logo": "https://www.lumachain.com.br/assets/logo_luma.png",
+  "theme_color": "#7e52ff",
+  "description": "LumaChain (LUMA) is a Polygon-based ERC20 token focused on transparency, utility and long-term ecosystem growth.",
+  "categories": ["utility", "polygon", "erc20"],
+  "links": {
+    "website": "https://www.lumachain.com.br",
+    "e-mail": "lumachaincrypto@gmail.com",
+    "telegram": "https://t.me/lumachaincrypto",
+    "Twitter (X)": @LUMAchaincrypto
+    "github": "https://github.com/lumachain"
+  }
+}
