@@ -65,7 +65,28 @@ Dates and milestones are indicative and may change according to technical progre
 
 ---
 
-## Phase 5 – RealFi (Penultimate Phase)
+## Phase 5 – Luma-based Distribution Token
+
+Subject to legal, regulatory and technical feasibility, this phase explores the creation of an additional token derived from the Luma ecosystem which may receive periodic distributions.
+
+- Design of a **Luma-based distribution token** intended to represent participation in specific cash-flow or distribution programs  
+- Exploration of a model where, depending on performance and governance decisions, holders may be **eligible** to receive distributions potentially once or twice per year  
+- Definition of clear on-chain and off-chain rules for:
+  - eligibility criteria  
+  - calculation methodology  
+  - distribution mechanisms (if and when approved)  
+- Full alignment with applicable regulation and, where necessary, use of appropriate legal entities and compliance frameworks  
+
+**Important notes:**
+
+- Any future distribution program will be **discretionary, non-guaranteed** and subject to legal, regulatory and governance approvals.  
+- Nothing in this phase should be interpreted as a promise of profits, fixed income or guaranteed dividends.
+
+**Goal:** explore a compliant, transparent and optional mechanism for periodic value distribution within the ecosystem, without guaranteeing returns and fully aligned with regulatory requirements.
+
+---
+
+## Phase 6 – RealFi 
 
 - Development of **RealFi** modules focused on real-world financial use cases, such as:
   - tokenization of revenue streams and cash flows  
@@ -74,19 +95,20 @@ Dates and milestones are indicative and may change according to technical progre
   - receivables  
   - management contracts  
   - tokenized claims on future cash flows  
-- Use of LumaNetwork and LumaPay as underlying infrastructure for RealFi flows  
+- Use of LumaNetwork, LumaPay and, where applicable, the Luma-based distribution token as underlying infrastructure for RealFi flows  
 
-**Goal:** bring the LumaChain ecosystem closer to concrete applications in traditional markets, leveraging LumaNetwork and the payment rails of LumaPay.
+**Goal:** bring the LumaChain ecosystem closer to concrete applications in traditional markets, leveraging the infrastructure of LumaNetwork and the payment rails of LumaPay.
 
 ---
 
-## Phase 6 – Tools for Community & Developers (Final Phase in this Roadmap)
+## Phase 7 – Tools for Community & Developers 
 
 - SDKs and code examples for integrating with:
   - the LUMA token  
   - LumaNetwork  
   - LumaPay  
   - RealFi modules  
+  - (where applicable) the Luma-based distribution token  
 - Advanced documentation for developers  
 - Community-facing tools for on-chain data monitoring and analytics  
 - Support for third-party integrations and ecosystem projects  
@@ -98,4 +120,5 @@ Dates and milestones are indicative and may change according to technical progre
 ## Disclaimer
 
 This roadmap is a **high-level plan**; it does not guarantee specific timelines or results and may be changed without prior notice.  
-Nothing in this document should be interpreted as a promise of financial returns or an investment offer.
+Nothing in this document should be interpreted as a promise of financial returns or an investment offer.  
+Any future distribution mechanisms will be subject to legal, regulatory and governance approvals and will not constitute guaranteed income.
